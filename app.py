@@ -8,7 +8,7 @@ import pydeck as pdk           # PyDeck for for creating beautiful maps
 import plotly.express as px    # Plotly Express for interactive chart plotting
 
 
-# Url of the dataset we are using, you can get the dataset from the internet easily
+# Url of the dataset we are using, you can get the dataset from https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95
 DATA_URL = (
     "Motor_Vehicle_Collisions_-_Crashes.csv"
 )
